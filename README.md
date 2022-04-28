@@ -58,3 +58,18 @@ I am graduate in Information Technology, So I have a deep passion and a long rel
 
 ![Masrur's GitHub stats](https://github-readme-stats.vercel.app/api?username=masrur00&show_icons=true&theme=dark)
 
+
+
+### Socials
+
+<p align="left"> <a href="https://www.codesandbox.com/u/masrur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/masrur#1678" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/masrur00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/masrur-alam-tata" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
+
+
+
+
+
+
+
+

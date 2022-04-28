@@ -4,11 +4,12 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 A Full Stack Web Developer
 ------------------------
 
-I am graduate in Information Technology, So I have a deep passion and a long relation/connection with coding. 
+I am graduate in Information Technology, So I have a deep passion and a long relation with coding. I love to code.  
 
-*   🌍  I'm based in India
+*   🌍  I'm based in India.
+*   *   🧠  I'm learning MERN stack
 *   ✉️  You can contact me at [masrur.jsr@gmail.com](mailto:masrur.jsr@gmail.com)
-*   🧠  I'm learning React-Js and NodeJs
+
 
 <h3> Skills & Experience </h3>
 
